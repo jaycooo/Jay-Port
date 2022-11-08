@@ -18,17 +18,17 @@ const Projects = () => {
         <MDBCard className="border border-dark">
           <MDBCardImage
             style={{ width: "485px" }}
-            src="https://github.com/AtimaB/The-Fight-Club/raw/master/public/assets/images/welcomePage.png"
-            alt="Fight Club"
+            src="https://github.com/jaycooo/shelter-stop.git"
+            alt="Shelter Stop"
             top
           />
           <MDBCardBody>
-            <MDBCardTitle tag="h5">The Fight Club</MDBCardTitle>
+            <MDBCardTitle tag="h5">JATE</MDBCardTitle>
             <MDBCardText>
               
             </MDBCardText>
             <MDBBtn
-              href=""
+              href="https://github.com/jaycooo/JATE.git"
               color="primary"
               size="md"
             >
@@ -46,13 +46,12 @@ const Projects = () => {
             top
           />
           <MDBCardBody>
-            <MDBCardTitle tag="h5">Budget Tracker</MDBCardTitle>
+            <MDBCardTitle tag="h5">E-Commerce</MDBCardTitle>
             <MDBCardText>
-              An app that allows the user to track their withdrawals and
-              deposits with or without a data/internet connection
+              An app that allows the user to set up payment options on PC
             </MDBCardText>
             <MDBBtn
-              href=""
+              href="https://github.com/jaycooo/E-Commerce.git"
               color="primary"
               size="md"
             >
@@ -71,11 +70,9 @@ const Projects = () => {
             top
           />
           <MDBCardBody>
-            <MDBCardTitle tag="h5">Fitness Tracker</MDBCardTitle>
+            <MDBCardTitle tag="h5"></MDBCardTitle>
             <MDBCardText>
-              With this app the user can log all exercises they perform in their
-              entire workout. After the user has submitted a workout they can
-              edit the workout after and view past workouts.
+              
             </MDBCardText>
             <MDBBtn
               href=""
@@ -92,15 +89,14 @@ const Projects = () => {
         <MDBCard className="border border-dark">
           <MDBCardImage
             className="img-fluid"
-            src="https://user-images.githubusercontent.com/64516562/97784659-c541c200-1b65-11eb-98ee-26da26acf883.PNG"
+            src=""
             alt="Team Generator"
             top
           />
           <MDBCardBody>
-            <MDBCardTitle tag="h5">Team Profile Generator</MDBCardTitle>
+            <MDBCardTitle tag="h5">Profile Generator</MDBCardTitle>
             <MDBCardText>
-              A command line application that allows the user to add and remove
-              employees with their employee information
+             
             </MDBCardText>
             <MDBBtn
               href=""
@@ -128,7 +124,7 @@ const Projects = () => {
               five day forecast for any city on earth
             </MDBCardText>
             <MDBBtn
-              href=""
+              href="https://github.com/jaycooo/Weather-app.git"
               color="primary"
               size="md"
             >
@@ -142,7 +138,7 @@ const Projects = () => {
           <MDBCardImage
             style={{ height: "225px" }}
             className="img-fluid"
-            src="https://user-images.githubusercontent.com/64516562/97785992-063dd480-1b6e-11eb-8040-7ca005d7830b.png"
+            src=""
             alt="Bartender"
             top
           />
@@ -171,14 +167,12 @@ const Projects = () => {
             top
           />
           <MDBCardBody>
-            <MDBCardTitle tag="h5">Day Planner</MDBCardTitle>
+            <MDBCardTitle tag="h5">Tech Blog</MDBCardTitle>
             <MDBCardText>
-              This is a work day plan app. It has hours sections on it so when
-              the user enters a description for each hour and save it the
-              description will stay until erased.
+              
             </MDBCardText>
             <MDBBtn
-              href=""
+              href="https://github.com/jaycooo/tech-blog.git"
               color="primary"
               size="md"
             >
@@ -197,12 +191,10 @@ const Projects = () => {
           <MDBCardBody>
             <MDBCardTitle tag="h5">Password Generator</MDBCardTitle>
             <MDBCardText>
-              This app allows the user to generate a random password with
-              criteria of their choosing. This app utilizes numbers, letters,
-              and special characters.
+              
             </MDBCardText>
             <MDBBtn
-              href=""
+              href="https://github.com/jaycooo/password-gen.git"
               color="primary"
               size="md"
             >
@@ -220,11 +212,9 @@ const Projects = () => {
             top
           />
           <MDBCardBody>
-            <MDBCardTitle tag="h5">Summerlin Labs </MDBCardTitle>
+            <MDBCardTitle tag="h5">Final Project Place Holder </MDBCardTitle>
             <MDBCardText>
-              This is my final project for the program. A local business owner
-              tasked my group with creating a website for their health and
-              testing clinic.
+              
             </MDBCardText>
             <MDBBtn
               href=""
