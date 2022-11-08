@@ -143,7 +143,7 @@ const Projects = () => {
             top
           />
           <MDBCardBody>
-            <MDBCardTitle tag="h5">8 Bit Bartender</MDBCardTitle>
+            <MDBCardTitle tag="h5">Place Holder</MDBCardTitle>
             <MDBCardText>
               
             </MDBCardText>
